@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1721802,RESOLUTION=1728x720
+https://raw.githubusercontent.com/Jhelly7/compiled01/storage-main/d73187e6-12ce-42bc-a7e1-a841d7d1966b/hls/index.m3u8
